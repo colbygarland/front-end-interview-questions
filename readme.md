@@ -26,3 +26,9 @@ This is my collection of Front-end specific interview questions/concepts etc.
 ## General Questions
 
 - Have you worked with version control in the past?
+
+
+## Tips
+
+- Leave time for feedback.
+- Ask if they have questions for us.
