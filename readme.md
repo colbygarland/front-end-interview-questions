@@ -20,3 +20,5 @@ This is my collection of Front-end specific interview questions/concepts etc.
 - How would you use a function in another file? 
 - What is TypeScript? Have you used it before?
 - How do promises work in JavaScript? What about `async`/`await`?
+- Have you used any CSS frameworks? Which ones? Benefits? Drawbacks?
+- What is SASS or LESS? Have you used either one before?
