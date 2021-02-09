@@ -20,6 +20,7 @@ This is my collection of Front-end specific interview questions/concepts etc.
 - How do promises work in JavaScript? What about `async`/`await`?
 - Have you used any CSS frameworks? Which ones? Benefits? Drawbacks?
 - What is SASS or LESS? Have you used either one before?
+- How would you store data so that it is still there after the user refreshes the page?
 
 ## General Questions
 
