@@ -14,3 +14,4 @@ This is my collection of Front-end specific interview questions/concepts etc.
 ## Node
 
 - What is one way to avoid "callback hell"?
+- How would you use a function in another file? (import/export)
