@@ -21,6 +21,7 @@ This is my collection of Front-end specific interview questions/concepts etc.
 - Have you used any CSS frameworks? Which ones? Benefits? Drawbacks?
 - What is SASS or LESS? Have you used either one before?
 - How would you store data so that it is still there after the user refreshes the page?
+- Explain in your own words the difference between a normal function and an arrow function. 
 
 ## General Questions
 
