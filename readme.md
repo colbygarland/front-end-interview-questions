@@ -1,8 +1,8 @@
-# Front End Interview Questions
+# Interview Questions
 
 This is my collection of Front-end specific interview questions/concepts etc.
 
-## React
+## React Questions
 
 - What is the difference between a class component vs. a functional component?
 - How would you store state in a component?
@@ -12,9 +12,7 @@ This is my collection of Front-end specific interview questions/concepts etc.
 - How do you change a prop's value? 
 - What is JSX? 
 
-
-
-## General
+## JavaScript Questions
 
 - What is one way to avoid "callback hell"?
 - How would you use a function in another file? 
@@ -22,3 +20,5 @@ This is my collection of Front-end specific interview questions/concepts etc.
 - How do promises work in JavaScript? What about `async`/`await`?
 - Have you used any CSS frameworks? Which ones? Benefits? Drawbacks?
 - What is SASS or LESS? Have you used either one before?
+
+## General Questions
