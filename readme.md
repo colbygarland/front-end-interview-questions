@@ -22,3 +22,5 @@ This is my collection of Front-end specific interview questions/concepts etc.
 - What is SASS or LESS? Have you used either one before?
 
 ## General Questions
+
+- Have you worked with version control in the past?
